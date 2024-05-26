@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CS50_finalProject_May2024/static/css/main.2e659bc0.css",
+    "main.js": "/CS50_finalProject_May2024/static/js/main.7a0b1345.js",
+    "index.html": "/CS50_finalProject_May2024/index.html",
+    "main.2e659bc0.css.map": "/CS50_finalProject_May2024/static/css/main.2e659bc0.css.map",
+    "main.7a0b1345.js.map": "/CS50_finalProject_May2024/static/js/main.7a0b1345.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e659bc0.css",
+    "static/js/main.7a0b1345.js"
+  ]
+}

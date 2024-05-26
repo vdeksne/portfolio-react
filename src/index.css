@@ -1,0 +1,106 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap");
+
+:root {
+    --bg-color: #010F19;
+    --primary-color: #010F19;
+    --secondary-color: #FFFBF0;
+    --text-color: #FFFBF0;
+    --text-color-2: #FFFBF0;
+    --text-color-3: rgb(10, 250, 148);
+    --text-color-4: #0AFA94;
+    --text-color-5: #010F19;
+    --text-color-6: #010F19;
+    --text-color-7: #0AFA94;
+    --overlay-color: rgb(12 12 12 / 63%);
+}
+
+[data-theme="light"] {
+    --bg-color: #FFFBF0;
+    --primary-color: #FFFBF0;
+    --secondary-color: #010F19;
+    --text-color: #010F19;
+    --text-color-2: #010F19;
+    --text-color-3: #0AFA94;
+    --text-color-4: #0AFA94;
+    --text-color-5: #FFFBF0;
+    --text-color-6: #010F19;
+    --text-color-7: #FF7F57;
+    --overlay-color: #FF7F57;
+}
+
+html,
+body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    height: 100%;
+    overflow-x: hidden;
+    overflow-y: visible;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: 'Prompt', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding-top: 60px;
+    border-left: 10px solid var(--primary-color);
+    border-right: 10px solid var(--primary-color);
+}
+
+ul {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Prompt', sans-serif;
+}
+
+a,
+a:hover {
+    color: var(--text-color);
+}
+
+p {
+    word-break: break-word;
+    hyphens: auto;
+}
+
+.ovhidden {
+    overflow: hidden;
+}
+
+.text_2,
+.text_2:hover {
+    color: var(--text-color-2);
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.cursor__dot div {
+    z-index: 999999 !important;
+}
+
+.cursor__dot div:last-child {
+    background-color: var(--text-color-3) !important;
+}
+
+.cursor__dot div:first-child {
+    filter: invert(1);
+    background-color: var(--overlay-color) !important;
+}
+
+.color_pr {
+    color: var(--primary-color) !important;
+}
+
+.color_sec {
+    color: var(--secondary-color);
+}
