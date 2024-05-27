@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/CS50_finalProject_May2024/static/css/main.2e659bc0.css",
-    "main.js": "/CS50_finalProject_May2024/static/js/main.7a0b1345.js",
-    "index.html": "/CS50_finalProject_May2024/index.html",
-    "main.2e659bc0.css.map": "/CS50_finalProject_May2024/static/css/main.2e659bc0.css.map",
-    "main.7a0b1345.js.map": "/CS50_finalProject_May2024/static/js/main.7a0b1345.js.map"
+    "main.css": "/deksne.com/static/css/main.dc3553e8.css",
+    "main.js": "/deksne.com/static/js/main.d62c2980.js",
+    "index.html": "/deksne.com/index.html",
+    "main.dc3553e8.css.map": "/deksne.com/static/css/main.dc3553e8.css.map",
+    "main.d62c2980.js.map": "/deksne.com/static/js/main.d62c2980.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e659bc0.css",
-    "static/js/main.7a0b1345.js"
+    "static/css/main.dc3553e8.css",
+    "static/js/main.d62c2980.js"
   ]
 }
