@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 CS50_final_V5/** filter=lfs diff=lfs merge=lfs -text
+node_modules/.cache/default-development/* filter=lfs diff=lfs merge=lfs -text
