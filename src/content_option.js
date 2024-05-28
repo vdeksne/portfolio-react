@@ -1,5 +1,5 @@
 const logotext = (
-<svg class="logo-color" width="157" height="38" viewBox="0 0 157 38" fill="var(--secondary-color)" color="var(--secondary-color)" xmlns="https://www.w3.org/2000/svg">
+<svg class="logo-color" width="157" height="38" viewBox="0 0 157 38" fill="var(--secondary-color)" color="var(--secondary-color)" xmlns="http://www.w3.org/2000/svg">
 <path d="M18.1139 36.798L0 19.8102L18.1139 2.82239L2.28134 19.8102L18.1139 36.798Z"/>
 <path d="M39.8383 19.7601L22.867 37.9712L5.90112 19.7601L22.867 34.4012L39.8383 19.7601Z"/>
 <path d="M44.8022 19.7842L26.7918 36.7979L42.7168 19.862L24.2997 3.14993L22.8633 25.6196C22.8633 25.6196 22.8947 3.43864 22.8781 0L44.8022 19.7861V19.7842Z"/>
