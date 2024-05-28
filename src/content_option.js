@@ -42,7 +42,7 @@ const dataabout = {
 const worktimeline = [{
         jobtitle: "Interactive Media Designer",
         where: "ShowHeroes Group",
-        date: "2022 - Now",
+        date: "2021 - Now",
     },
     {
         jobtitle: "Online Marketing Specialist",
@@ -54,7 +54,46 @@ const worktimeline = [{
         where: "Art Ovation Hotel",
         date: "2018",
     },
+    {
+        jobtitle: "IT Assistant",
+        where: "Ringling College of Art and Design",
+        date: "2017",
+    },
 ];
+
+const worktimeline2 = [{
+    jobtitle: "Harvard John A. Paulson School of Engineering and Applied Sciences",
+    where: "CS50, Computer Science",
+    date: "2023 - Now",
+},
+{
+    jobtitle: "Riga Technical University",
+    where: "Front-End and Back-End Development, Python",
+    date: "2018 - Now",
+},
+{
+    jobtitle: "Riga Coding School",
+    where: "Web Development",
+    date: "2022",
+},
+{
+    jobtitle: "Ringling College of Art and Design",
+    where: "BA, Business of Art and Design",
+    date: "2014 - 2018",
+},
+{
+    jobtitle: "Parsons School of Design - The New School",
+    where: "BBA, Strategic Design and Management",
+    date: "2017 - 2018",
+},
+{
+    jobtitle: "UWC Red Cross Nordic",
+    where: "IB Diploma",
+    date: "2011 - 2013",
+},
+];
+
+
 
 const skills = [{
         name: "Figma",
@@ -201,4 +240,5 @@ export {
     contactConfig,
     socialprofils,
     logotext,
+    worktimeline2,
 };
