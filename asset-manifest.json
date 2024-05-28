@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/deksne.com/static/css/main.dc3553e8.css",
-    "main.js": "/deksne.com/static/js/main.d62c2980.js",
-    "index.html": "/deksne.com/index.html",
-    "main.dc3553e8.css.map": "/deksne.com/static/css/main.dc3553e8.css.map",
-    "main.d62c2980.js.map": "/deksne.com/static/js/main.d62c2980.js.map"
+    "main.css": "/CS50_final_V5/static/css/main.dc3553e8.css",
+    "main.js": "/CS50_final_V5/static/js/main.211ed7ac.js",
+    "index.html": "/CS50_final_V5/index.html",
+    "main.dc3553e8.css.map": "/CS50_final_V5/static/css/main.dc3553e8.css.map",
+    "main.211ed7ac.js.map": "/CS50_final_V5/static/js/main.211ed7ac.js.map"
   },
   "entrypoints": [
     "static/css/main.dc3553e8.css",
-    "static/js/main.d62c2980.js"
+    "static/js/main.211ed7ac.js"
   ]
 }
